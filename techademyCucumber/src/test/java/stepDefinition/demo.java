@@ -30,7 +30,7 @@ public class demo extends browserBase {
 
 	@Then("^User will redirect to Home page and acces the track specified courses$")
 	public void user_will_redirect_to_Home_page_and_acces_the_track_specified_courses() throws Throwable {
-		System.out.println("this is working");
+		System.out.println("this is working correctly");
 	}
 
 	@And("^Close the driver$")
