@@ -8,8 +8,3 @@ Then User will redirect to Home page and acces the track specified courses
 And Close the driver
 
 Examples:
-
-|username                     |password 	 	|
-|shriyash.nilawar@mindtree.com|Shri@1299    |
-|Bittu.Sharma@mindtree.com    |Vivek@123	  |
-|Bittu.Sharma@mindtree.com    |Vivek@123    |
